@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - main
-      - assignment1
+      - feature-branch
   pull_request:
     branches:
       - main
-      - assignment1
+      - feature-branch
 
 jobs:
   build:
