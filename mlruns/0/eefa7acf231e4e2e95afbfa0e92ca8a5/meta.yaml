@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sameer/My_space/MLOPS/mlops59/mlruns/0/eefa7acf231e4e2e95afbfa0e92ca8a5/artifacts
+end_time: 1722682358004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eefa7acf231e4e2e95afbfa0e92ca8a5
+run_name: amusing-mare-805
+run_uuid: eefa7acf231e4e2e95afbfa0e92ca8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722682355146
+status: 4
+tags: []
+user_id: Sameer
