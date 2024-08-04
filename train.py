@@ -7,7 +7,7 @@ import json
 import mlflow
 import mlflow.sklearn
 
-# Load data
+# Load data from csv
 data = pd.read_csv("data/processed/titanic.csv")
 X = data.drop(columns=["Survived"])
 y = data["Survived"]
